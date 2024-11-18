@@ -4,6 +4,7 @@
 - 📫 How to reach me modernera2k@gmail.com
 - ⚡ Fun fact: I have very little experience in .lua
 - ⚡ Fun fact: I just joined Github 10/2024
+-  Jesus makes all things possible
 
 <!---
 jaylogi/jaylogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
